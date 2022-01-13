@@ -1,0 +1,9 @@
+ [Desktop Entry]
+ Name=Minecraft Launcher
+ Comment=Minecraft Java Edition
+ Keywords=minecraft;
+ Exec=/opt/minecraft-launcher/bin/minecraft-launcher
+ Icon=/opt/minecraft-launcher/bin/minecraft-1-logo-png-transparent.png
+ Terminal=false
+ Type=Application
+ Categories=Games;
