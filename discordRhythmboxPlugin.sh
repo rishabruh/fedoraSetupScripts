@@ -1,7 +1,7 @@
 echo ===================
 echo Installing pip and pypresence
 echo ===================
-sudo dnf install python3-pip 
+sudo dnf install -y python3-pip 
 pip3 install pypresence
 
 echo ===================
